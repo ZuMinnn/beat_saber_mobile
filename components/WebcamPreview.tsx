@@ -1,9 +1,4 @@
 
-/**
- * @license
- * SPDX-License-Identifier: Apache-2.0
-*/
-
 
 import React, { useEffect, useRef } from 'react';
 import { HandLandmarkerResult } from '@mediapipe/tasks-vision';

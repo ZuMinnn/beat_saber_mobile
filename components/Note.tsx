@@ -1,9 +1,4 @@
 
-/**
- * @license
- * SPDX-License-Identifier: Apache-2.0
-*/
-
 
 import React, { useMemo, useRef } from 'react';
 import { Extrude, Octahedron, RoundedBox } from '@react-three/drei';
