@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Rhythm Slasher</string>
+    <string name="title_activity_main">Rhythm Slasher</string>
+    <string name="package_name">com.beatsaber.rhythmslasher</string>
+    <string name="custom_url_scheme">com.beatsaber.rhythmslasher</string>
+</resources>
